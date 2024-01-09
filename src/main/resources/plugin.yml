@@ -1,0 +1,4 @@
+name: trident
+version: '${version}'
+main: com.github.warihue.trident.Main
+api-version: '1.20'
